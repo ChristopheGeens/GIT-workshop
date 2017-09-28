@@ -2,4 +2,4 @@ test file git workshop
 
 andere gebruiker
 
-local commit
+test voor commit error
