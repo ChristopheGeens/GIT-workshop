@@ -1,3 +1,5 @@
 test file git workshop
 
 andere gebruiker
+
+test voor commit error
